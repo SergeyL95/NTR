@@ -1,5 +1,5 @@
 public void student(){
 	
-	System.out.println("Student SDET1");
+	System.out.println("Student SDET2");
 	
 }
