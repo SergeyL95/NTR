@@ -1,6 +1,6 @@
 public void student(){
 	
-	System.out.println("Student DEV1");
-	System.out.println("More changes DEV1");
+	System.out.println("Changes from DEV2");
+	System.out.println("More changes");
 	
 }
